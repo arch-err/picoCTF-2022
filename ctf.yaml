@@ -1,9 +1,74 @@
 general:
   ctf:
-    name: {{ .Env.CTF_NAME }}
-    description: |-
-      {{ .Env.CTF_DESCRIPTION }}
+    name: picoCTF-2022
+    description: ""
     urls:
-      - {{ .Env.CTF_URL }}
+      - play.picoctf.org/practice?originalEvent=70
     repo:
-      URL: {{ .Env.REPO_URL }}
+      URL: git@github.com:arch-err/picoCTF-2022.git
+challenges:
+  - name: Local_Authority
+  - name: Inspect_HTML
+  - name: Includes
+  - name: x-sixty-what
+  - name: Vigenere
+  - name: unpackme.py
+  - name: unpackme
+  - name: transposition-trial
+  - name: Torrent_Analyze
+  - name: substitution2
+  - name: substitution1
+  - name: substitution0
+  - name: St3g0
+  - name: SQLiLite
+  - name: SQL_Direct
+  - name: Sleuthkit_Intro
+  - name: Sleuthkit_Apprentice
+  - name: Secrets
+  - name: Search_source
+  - name: Safe_Opener
+  - name: RPS
+  - name: Roboto_Sans
+  - name: Redaction_gone_wrong
+  - name: rail-fence
+  - name: Power_Cookie
+  - name: patchme.py
+  - name: Packets_Primer
+  - name: Operation_Orchid
+  - name: Operation_Oni
+  - name: morse-code
+  - name: Lookey_here
+  - name: GDB_Test_Drive
+  - name: Fresh_Java
+  - name: Forbidden_Paths
+  - name: flag_leak
+  - name: File_types
+  - name: file-run2
+  - name: file-run1
+  - name: Enhance!
+  - name: Eavesdrop
+  - name: CVE-XXXX-XXXX
+  - name: credstuff
+  - name: buffer_overflow_2
+  - name: buffer_overflow_1
+  - name: buffer_overflow_0
+  - name: bloat.py
+  - name: Bbbbloat
+  - name: basic-mod2
+  - name: basic-mod1
+  - name: basic-file-exploit
+  - name: Wizardlike
+  - name: wine
+  - name: Very_Smooth
+  - name: Sum-O-Primes
+  - name: stack_cache
+  - name: solfire
+  - name: SideChannel
+  - name: Sequences
+  - name: ropfu
+  - name: NSA_Backdoor
+  - name: noted
+  - name: Live_Art
+  - name: Keygenme
+  - name: function_overwrite
+  - name: buffer_overflow_3
