@@ -28,7 +28,7 @@
 **Team:** none
 
 
-**Flags:** (6/65)
+**Flags:** (7/65)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
