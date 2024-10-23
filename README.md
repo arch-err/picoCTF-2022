@@ -2,7 +2,7 @@
 
 
 # picoCTF-2022
-- play.picoctf.org/practice?originalEvent=70
+- https://play.picoctf.org/practice?originalEvent=70
 
 ## Description
 **
