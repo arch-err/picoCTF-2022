@@ -13,14 +13,14 @@
 **Team:** none
 
 
-**Flags:** (0/65)
+**Flags:** (1/65)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
 
 # Challenges
 - [ ] Local_Authority
-- [ ] Inspect_HTML
+- [x] Inspect_HTML
 - [ ] Includes
 - [ ] x-sixty-what
 - [ ] Vigenere
