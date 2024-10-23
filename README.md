@@ -5,7 +5,22 @@
 - https://play.picoctf.org/practice?originalEvent=70
 
 ## Description
-**
+
+**Registration Opens:** 6:00pm GMT+1 Feb 1, 2022
+
+**Registration Closes:** 9:00pm GMT+2 Mar 29, 2022
+
+**Competition Starts:** 5:00pm GMT+1 Mar 15, 2022
+
+**Competition Ends:** 9:00pm GMT+2 Mar 29, 2022
+
+*picoCTF 2022 is an annual capture-the-flag (CTF) hacking competition where participants gain access to a safe and unique hands on experience. Participants must reverse engineer, break, hack, decrypt, and think creatively and critically to solve the challenges and capture the flags.*
+
+*This is a two-week long timed CTF competition. Challenges increase in difficulty as players progress. All are welcome to join but this CTF is recommended for players with some programming knowledge. Players with no previous programming or CTF experience may prefer our noncompetitive picoGym challenges.*
+
+*All challenges will be released at the start of the competition. Point values remain the same throughout the competition. Players may participate individually or form teams of up to 5 players.*
+
+
 
 # Results
 **Username:** arch-err
