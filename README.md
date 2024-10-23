@@ -13,7 +13,7 @@
 **Team:** none
 
 
-**Flags:** (1/65)
+**Flags:** (2/65)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
@@ -23,7 +23,7 @@
 - [x] Inspect_HTML
 - [ ] Includes
 - [ ] x-sixty-what
-- [ ] Vigenere
+- [x] Vigenere
 - [ ] unpackme.py
 - [ ] unpackme
 - [ ] transposition-trial
