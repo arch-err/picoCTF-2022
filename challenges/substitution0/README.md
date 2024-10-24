@@ -1,11 +1,9 @@
 # substitution0
-*<++>*
+*A message has come in but it seems to be all scrambled. Luckily it seems to have the key at the beginning. Can you crack this substitution cipher?*
 
 ## Solution
-1. <++>
-2. `<++>`
-3. `./solve.sh`
+1. https://planetcalc.com/8047/
 
 
 ## Flag
-**Flag:** `<++>`
+**Flag:** `picoCTF{5UB5717U710N_3V0LU710N_03055505}`
