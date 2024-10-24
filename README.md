@@ -28,7 +28,7 @@
 **Team:** none
 
 
-**Flags:** (19/65)
+**Flags:** (21/65)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
@@ -60,11 +60,11 @@
 - [ ] [rail-fence](challenges/fence)
 - [ ] [Power_Cookie](challenges/Power_Cookie)
 - [ ] [patchme.py](challenges/py)
-- [ ] [Packets_Primer](challenges/Packets_Primer)
+- [x] [Packets_Primer](challenges/Packets_Primer)
 - [ ] [Operation_Orchid](challenges/Operation_Orchid)
 - [ ] [Operation_Oni](challenges/Operation_Oni)
 - [ ] [morse-code](challenges/code)
-- [ ] [Lookey_here](challenges/Lookey_here)
+- [x] [Lookey_here](challenges/Lookey_here)
 - [ ] [GDB_Test_Drive](challenges/GDB_Test_Drive)
 - [ ] [Fresh_Java](challenges/Fresh_Java)
 - [ ] [Forbidden_Paths](challenges/Forbidden_Paths)
