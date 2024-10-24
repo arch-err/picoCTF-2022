@@ -1,0 +1,16 @@
+  613* ls root
+  614* sudo ls root
+  615* sudo chown -r root
+  616* sudo chown -R archerr root
+  617* ya
+  618  fls -o 411648 disk.flag.img -r
+  619  fls -o 411648 disk.flag.img -r | rg flag
+  620  icat -o 411648 disk.flag.img 1782
+  621  icat -o 411648 disk.flag.img 1876
+  622  icat -o 411648 disk.flag.img 1875
+  623* openssl -d aes256 -salt -in flag.txt.enc -out flag.txt -k unbreakablepassword1234567
+  624* openssl aes256 -d -salt -in flag.txt.enc -out flag.txt -k unbreakablepassword1234567
+  625* cat flag.txt
+  626* cat flag.txt | clip
+  627  history | tail -25 > recent
+  628  ya
