@@ -28,7 +28,7 @@
 **Team:** none
 
 
-**Flags:** (21/65)
+**Flags:** (22/65)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
@@ -72,7 +72,7 @@
 - [ ] [File_types](challenges/File_types)
 - [ ] [file-run2](challenges/run2)
 - [ ] [file-run1](challenges/run1)
-- [ ] [Enhance!](challenges/!)
+- [x] [Enhance!](challenges/!)
 - [ ] [Eavesdrop](challenges/Eavesdrop)
 - [ ] [CVE-XXXX-XXXX](challenges/XXXX)
 - [ ] [credstuff](challenges/credstuff)
