@@ -28,7 +28,7 @@
 **Team:** none
 
 
-**Flags:** (31/65)
+**Flags:** (35/65)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
@@ -48,7 +48,7 @@
 - [x] [substitution0](challenges/substitution0)
 - [x] [St3g0](challenges/St3g0)
 - [x] [SQLiLite](challenges/SQLiLite)
-- [ ] [SQL_Direct](challenges/SQL_Direct)
+- [x] [SQL_Direct](challenges/SQL_Direct)
 - [x] [Sleuthkit_Intro](challenges/Sleuthkit_Intro)
 - [x] [Sleuthkit_Apprentice](challenges/Sleuthkit_Apprentice)
 - [x] [Secrets](challenges/Secrets)
@@ -69,11 +69,11 @@
 - [ ] [Fresh_Java](challenges/Fresh_Java)
 - [x] [Forbidden_Paths](challenges/Forbidden_Paths)
 - [ ] [flag_leak](challenges/flag_leak)
-- [ ] [File_types](challenges/File_types)
+- [x] [File_types](challenges/File_types)
 - [ ] [file-run2](challenges/run2)
 - [ ] [file-run1](challenges/run1)
 - [x] [Enhance!](challenges/!)
-- [ ] [Eavesdrop](challenges/Eavesdrop)
+- [x] [Eavesdrop](challenges/Eavesdrop)
 - [ ] [CVE-XXXX-XXXX](challenges/XXXX)
 - [x] [credstuff](challenges/credstuff)
 - [ ] [buffer_overflow_2](challenges/buffer_overflow_2)
@@ -90,7 +90,7 @@
 - [ ] [Sum-O-Primes](challenges/Primes)
 - [ ] [stack_cache](challenges/stack_cache)
 - [ ] [solfire](challenges/solfire)
-- [ ] [SideChannel](challenges/SideChannel)
+- [x] [SideChannel](challenges/SideChannel)
 - [ ] [Sequences](challenges/Sequences)
 - [ ] [ropfu](challenges/ropfu)
 - [ ] [NSA_Backdoor](challenges/NSA_Backdoor)
